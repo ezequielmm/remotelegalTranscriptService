@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>6c3d9886-0df6-47d9-948c-01dce9eab1c4</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.9.1" />
+    <PackageReference Include="Dapper" Version="2.0.90" />
+    <PackageReference Include="FluentResults" Version="2.5.0" />
+    <PackageReference Include="Microsoft.Azure.Management.Media" Version="4.0.0" />
+    <PackageReference Include="Microsoft.CognitiveServices.Speech" Version="1.17.0" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.33.0" />
+    <PackageReference Include="MySql.Data" Version="8.0.25" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.1.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.1.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.1.4" />
+  </ItemGroup>
+
+</Project>
