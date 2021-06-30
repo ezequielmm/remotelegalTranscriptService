@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JV98RkNcZcFjnqeEF3jPcSEkGiGKf6AcEt0PBOEEyJ6AVeZBdrU2uyjVDfIAYQsAs8bL804tB8Pk0RwXCqcbSQ==",
+  "dgSpecHash": "T0NSzYIogwNloF42ELoMoNWK25XcNLUCLoqnuaHdI577vQHNfBBXHoPDWHKeMkZ+7/q7uar2JfTMvrNSx5nHSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\facun\\Desktop\\PrecisionReporters.MediaService\\PrecisionReporters.MediaService\\PrecisionReporters.MediaService\\PrecisionReporters.MediaService.csproj",
+  "projectFilePath": "C:\\MS\\Git\\PR\\prp-media-service-transcript\\src\\PrecisionReporters.MediaService\\PrecisionReporters.MediaService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\facun\\.nuget\\packages\\azure.core\\1.15.0\\azure.core.1.15.0.nupkg.sha512",
     "C:\\Users\\facun\\.nuget\\packages\\azure.storage.blobs\\12.9.1\\azure.storage.blobs.12.9.1.nupkg.sha512",

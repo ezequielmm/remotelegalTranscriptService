@@ -12,12 +12,12 @@ namespace PrecisionReporters.MediaService.Controllers
     [ApiController]
     public class TranscriptMediaController : Controller
     {
-        private readonly ITranscriptionService _transcriptMediaService;
-        private readonly IAzureTranscriptService _azureTranscriptService;
+        private readonly ITranscriptionService _transcriptionService;
+        private readonly IAzureTranscriptService _azureTranscriptService;       
 
         public TranscriptMediaController(ITranscriptionService transcriptMediaService, IAzureTranscriptService azureTranscriptService)
         {
-            _transcriptMediaService = transcriptMediaService;
+            _transcriptionService = transcriptMediaService;
             _azureTranscriptService = azureTranscriptService;
         }
         /// <summary>
@@ -28,7 +28,7 @@ namespace PrecisionReporters.MediaService.Controllers
         [HttpGet("{depositionId}")]
         public async Task<ActionResult<List<Transcription>>> GetTranscriptions(Guid depositionId) 
         {
-            return await _transcriptMediaService.GetTranscriptionsByDepositionId(depositionId);
+            return await _transcriptionService.GetTranscriptionsByDepositionId(depositionId);
         }
 
         [HttpGet("audioTranscript")]
@@ -36,5 +36,12 @@ namespace PrecisionReporters.MediaService.Controllers
         {
             return await _azureTranscriptService.GetAudioTranscript();
         }
+
+        [HttpGet("parseFile")]
+        public async Task<Result> GetParseFile()
+        {
+            var file = await _transcriptionService.ParseStream();
+            return Result.Ok();
+        }        
     }
 }

@@ -7012,11 +7012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\facun\\Desktop\\PrecisionReporters.MediaService\\PrecisionReporters.MediaService\\PrecisionReporters.MediaService\\PrecisionReporters.MediaService.csproj",
+      "projectUniqueName": "C:\\MS\\Git\\PR\\prp-media-service-transcript\\src\\PrecisionReporters.MediaService\\PrecisionReporters.MediaService.csproj",
       "projectName": "PrecisionReporters.MediaService",
-      "projectPath": "C:\\Users\\facun\\Desktop\\PrecisionReporters.MediaService\\PrecisionReporters.MediaService\\PrecisionReporters.MediaService\\PrecisionReporters.MediaService.csproj",
+      "projectPath": "C:\\MS\\Git\\PR\\prp-media-service-transcript\\src\\PrecisionReporters.MediaService\\PrecisionReporters.MediaService.csproj",
       "packagesPath": "C:\\Users\\facun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\facun\\Desktop\\PrecisionReporters.MediaService\\PrecisionReporters.MediaService\\PrecisionReporters.MediaService\\obj\\",
+      "outputPath": "C:\\MS\\Git\\PR\\prp-media-service-transcript\\src\\PrecisionReporters.MediaService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
