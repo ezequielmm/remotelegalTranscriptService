@@ -7,6 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
@@ -45,9 +46,10 @@ namespace PrecisionReporters.MediaService.Services
                     {
                         var reader = node.CreateReader();
                         reader.MoveToContent();
-                        var beginString = node.Attribute("begin").Value.Replace("t", "");
+                        var confidence = Regex.Replace(node.PreviousNode.ToString(), "[^0-9.]", "");
+                        var beginString = node.Attribute("begin").Value.Replace("t", ""); // need to sum audio startDate
                         var startTicks = ParseTimecode(beginString);
-                        var endString = node.Attribute("end").Value.Replace("t", "");
+                        var endString = node.Attribute("end").Value.Replace("t", ""); // need to sum audio startDate
                         var endTicks = ParseTimecode(endString);
                         var text = reader.ReadInnerXml()
                             .Replace("<tt:", "<")
@@ -55,12 +57,21 @@ namespace PrecisionReporters.MediaService.Services
                             .Replace(string.Format(@" xmlns:tt=""{0}""", tt), "")
                             .Replace(string.Format(@" xmlns=""{0}""", tt), "");
 
-                        items.Add(new TranscriptionItem()
+
+                        var transcript = new Transcription
                         {
-                            StartTime = (int)(startTicks),
-                            EndTime = (int)(endTicks),
-                            Lines = text
-                        });
+                            Id = Guid.NewGuid(),
+                            CreationDate = DateTime.UtcNow,
+                            Text = text,
+                            UserId = Guid.Parse("122a2378-59e6-43a3-835f-68790adf0d2c"),
+                            DepositionId = Guid.Parse("d5e061f2-5c8b-4506-82c9-64af66a6dc24"),
+                            TranscriptDateTime = DateTime.Now,
+                            Confidence = double.Parse(confidence),
+                            Duration = 1, //endString - beginString,
+                            //PostProcessed = true
+                        };
+
+                        await SaveTranscriptions(transcript);
                     }
                     catch (Exception ex)
                     {
@@ -70,6 +81,11 @@ namespace PrecisionReporters.MediaService.Services
 
                 return items;
             }
+        }
+
+        private async Task<int> SaveTranscriptions(Transcription transcript)
+        {
+            return await _configurationData.SaveTranscriptionsAsync(transcript);
         }
 
         private long ParseTimecode(string s)

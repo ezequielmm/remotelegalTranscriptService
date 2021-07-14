@@ -10,5 +10,6 @@ namespace PrecisionReporters.MediaService.Data.Models
         public DateTime TranscriptDateTime { get; set; }
         public int Duration { get; set; }
         public double Confidence { get; set; }
+        //public bool PostProcessed { get; set; }
     }
 }
