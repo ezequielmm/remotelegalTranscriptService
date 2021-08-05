@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecisionReporters.MediaService", "PrecisionReporters.MediaService\PrecisionReporters.MediaService.csproj", "{F4F8B43E-93B3-4861-B6CA-B6C88BC394DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrecisionReporters.MediaService", "PrecisionReporters.MediaService\PrecisionReporters.MediaService.csproj", "{F4F8B43E-93B3-4861-B6CA-B6C88BC394DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

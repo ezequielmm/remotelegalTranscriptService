@@ -1,5 +1,4 @@
 ﻿using Dapper;
-using FluentResults;
 using MySql.Data.MySqlClient;
 using PrecisionReporters.MediaService.Data.Dapper.Interfaces;
 using PrecisionReporters.MediaService.Data.Models;
@@ -22,6 +21,11 @@ namespace PrecisionReporters.MediaService.Data.Dapper
         public async Task<IEnumerable<Transcription>> GetTranscriptionsAsync(Guid depositionId)
         {
             return await _remoteLegalConnection.QueryAsync<Transcription>(SQLQueries.GetTranscriptions(depositionId.ToString()));
+        }
+
+        public async Task<IEnumerable<DepositionEvent>> GetDepositionEventsAsync(Guid depositionId)
+        {
+            return await _remoteLegalConnection.QueryAsync<DepositionEvent>(SQLQueries.GetDepositionEvents(depositionId.ToString()));
         }
 
         public async Task<int> SaveTranscriptionsAsync(Transcription transcript)
