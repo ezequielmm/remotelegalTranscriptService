@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-US" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:copyright>Copyright (c) 2013 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="Style1" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region style="Style1" xml:id="CaptionArea" tts:origin="0c 12.6c" tts:extent="32c 2.4c" tts:backgroundColor="rgba(0,0,0,160)" tts:displayAlign="center" tts:padding="0.3c 0.5c" />
+    </layout>
+  </head>
+  <body region="CaptionArea">
+    <div>
+      <!-- Confidence: 0.9870209 -->
+      <p begin="00:00:00.000" end="00:00:03.568">So this is going to be very valuable for you</p>
+
+      <!-- Confidence: 0.9870209 -->
+      <p begin="00:00:03.650" end="00:00:06.812">to learn a lot and I'm just going to go</p>
+
+      <!-- Confidence: 0.9870209 -->
+      <p begin="00:00:06.894" end="00:00:08.840">over my favorite method,</p>
+
+      <!-- Confidence: 0.9870209 -->
+      <p begin="00:00:08.840" end="00:00:12.673">which ties everything together, which will summarize what I'm talking</p>
+
+      <!-- Confidence: 0.9870209 -->
+      <p begin="00:00:12.728" end="00:00:13.950">about in this episode.</p>
+
+      <!-- Confidence: 0.9870209 -->
+      <p begin="00:00:13.950" end="00:00:17.703">But most of them to give you some examples from</p>
+
+      <!-- Confidence: 0.9870209 -->
+      <p begin="00:00:17.783" end="00:00:19.060">my life as well,</p>
+
+      <!-- Confidence: 0.9870209 -->
+      <p begin="00:00:19.060" end="00:00:22.593">which will help you understand just the importance of this</p>
+
+      <!-- Confidence: 0.9870209 -->
+      <p begin="00:00:22.654" end="00:00:23.080">concept</p>
+
+      <!-- Confidence: 0.9870209 -->
+      <p begin="00:00:23.080" end="00:00:27.168">of embracing when things get difficult now to embrace something</p>
+
+      <!-- Confidence: 0.9870209 -->
+      <p begin="00:00:27.233" end="00:00:28.920">means to learn to live it,</p>
+
+      <!-- Confidence: 0.986812707272727 -->
+      <p begin="00:00:28.920" end="00:00:32.525">to see as a. Positive thing instead of a negative</p>
+
+      <!-- Confidence: 0.986812707272727 -->
+      <p begin="00:00:32.599" end="00:00:33.040">thing.</p>
+
+      <!-- Confidence: 0.98669374 -->
+      <p begin="00:00:33.040" end="00:00:35.240">But before we get into that,</p>
+
+      <!-- Confidence: 0.98669374 -->
+      <p begin="00:00:35.240" end="00:00:38.560">let's just talk about deliberate learning versus passive learning.</p>
+
+      <!-- Confidence: 0.98669374 -->
+      <p begin="00:00:38.560" end="00:00:40.400">I'll give you an example.</p>
+
+      <!-- Confidence: 0.98669374 -->
+      <p begin="00:00:40.400" end="00:00:43.710">So deliberate learning is something like learning grammar rules.</p>
+
+      <!-- Confidence: 0.98669374 -->
+      <p begin="00:00:43.710" end="00:00:47.020">So let's say you are in a language school</p>
+
+      <!-- Confidence: 0.98669374 -->
+      <p begin="00:00:47.020" end="00:00:48.860">and your teacher says, OK,</p>
+
+      <!-- Confidence: 0.98669374 -->
+      <p begin="00:00:48.860" end="00:00:50.700">let's learn the present perfect.</p>
+
+      <!-- Confidence: 0.98669374 -->
+      <p begin="00:00:50.700" end="00:00:51.800">This is when</p>
+
+      <!-- Confidence: 0.98669374 -->
+      <p begin="00:00:51.800" end="00:00:54.380">we use it. These are the rules,</p>
+
+      <!-- Confidence: 0.98669374 -->
+      <p begin="00:00:54.380" end="00:00:57.716">and you have to focus on that and try to</p>
+
+      <!-- Confidence: 0.98669374 -->
+      <p begin="00:00:57.799" end="00:00:58.800">memorize it.</p>
+
+      <!-- Confidence: 0.98669374 -->
+      <p begin="00:00:58.800" end="00:01:01.580">Try to learn these concepts.</p>
+
+      <!-- Confidence: 0.9842722 -->
+      <p begin="00:01:01.580" end="00:01:05.245">Passive learning is when you are watching a TV program</p>
+
+      <!-- Confidence: 0.9842722 -->
+      <p begin="00:01:05.313" end="00:01:09.114">in English and you are just naturally getting that input</p>
+
+      <!-- Confidence: 0.9842722 -->
+      <p begin="00:01:09.182" end="00:01:12.440">which I've talked about a lot is so important to</p>
+
+      <!-- Confidence: 0.9842722 -->
+      <p begin="00:01:12.440" end="00:01:15.971">get input because that's how you're going to really absorb</p>
+
+      <!-- Confidence: 0.9842722 -->
+      <p begin="00:01:16.032" end="00:01:19.320">English and just getting used to the English language.</p>
+
+      <!-- Confidence: 0.9842722 -->
+      <p begin="00:01:19.320" end="00:01:22.210">But we have to set up that again,</p>
+
+      <!-- Confidence: 0.9842722 -->
+      <p begin="00:01:22.210" end="00:01:26.527">is deliberate learning grammar rules when you focus on learning</p>
+
+      <!-- Confidence: 0.9842722 -->
+      <p begin="00:01:26.596" end="00:01:29.886">new words and phrases when you use a method that</p>
+
+      <!-- Confidence: 0.9842722 -->
+      <p begin="00:01:29.954" end="00:01:32.010">I'm going to talk about later.</p>
+
+      <!-- Confidence: 0.98818415 -->
+      <p begin="00:01:32.010" end="00:01:35.627">When you try to learn how to say a word</p>
+
+      <!-- Confidence: 0.98818415 -->
+      <p begin="00:01:35.720" end="00:01:38.780">that is difficult for you to say,</p>
+
+      <!-- Confidence: 0.98818415 -->
+      <p begin="00:01:38.780" end="00:01:42.759">and you practice this a few times and you practice</p>
+
+      <!-- Confidence: 0.98818415 -->
+      <p begin="00:01:42.838" end="00:01:44.350">it again next week,</p>
+
+      <!-- Confidence: 0.98818415 -->
+      <p begin="00:01:44.350" end="00:01:46.340">that is deliberate learning now,</p>
+
+      <!-- Confidence: 0.98818415 -->
+      <p begin="00:01:46.340" end="00:01:48.330">deliberate learning needs more focus,</p>
+
+      <!-- Confidence: 0.98818415 -->
+      <p begin="00:01:48.330" end="00:01:52.261">it needs more focus because let's say you are watching</p>
+
+      <!-- Confidence: 0.98818415 -->
+      <p begin="00:01:52.334" end="00:01:54.300">a YouTube video in English,</p>
+
+      <!-- Confidence: 0.98818415 -->
+      <p begin="00:01:54.300" end="00:01:57.160">you can sometimes just switch off maybe.</p>
+    </div>
+  </body>
+</tt>

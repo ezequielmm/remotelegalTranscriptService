@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-US" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:copyright>Copyright (c) 2013 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="Style1" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region style="Style1" xml:id="CaptionArea" tts:origin="0c 12.6c" tts:extent="32c 2.4c" tts:backgroundColor="rgba(0,0,0,160)" tts:displayAlign="center" tts:padding="0.3c 0.5c" />
+    </layout>
+  </head>
+  <body region="CaptionArea">
+    <div>
+      <!-- Confidence: 0.9819019 -->
+      <p begin="00:00:00.000" end="00:00:03.555">Absolutely interesting, and I think like there's people probably do</p>
+
+      <!-- Confidence: 0.9819019 -->
+      <p begin="00:00:03.608" end="00:00:03.820">cool</p>
+
+      <!-- Confidence: 0.9819019 -->
+      <p begin="00:00:03.820" end="00:00:05.090">things where they like</p>
+
+      <!-- Confidence: 0.9819019 -->
+      <p begin="00:00:05.090" end="00:00:06.040">program keyboards to</p>
+
+      <!-- Confidence: 0.9819019 -->
+      <p begin="00:00:06.040" end="00:00:08.890">automatically, like, you know, create forks or like auto,</p>
+
+      <!-- Confidence: 0.9819019 -->
+      <p begin="00:00:08.890" end="00:00:11.591">you know, do machine learning to on their PCs so</p>
+
+      <!-- Confidence: 0.9819019 -->
+      <p begin="00:00:11.647" end="00:00:15.024">they can like automatically detect things in this space like</p>
+
+      <!-- Confidence: 0.9819019 -->
+      <p begin="00:00:15.080" end="00:00:18.400">you can do cool things with computation and electronics and</p>
+
+      <!-- Confidence: 0.9819019 -->
+      <p begin="00:00:18.400" end="00:00:20.300">out in sensors. Whatever your game,</p>
+
+      <!-- Confidence: 0.9819019 -->
+      <p begin="00:00:20.300" end="00:00:23.198">maybe we actually have a lot of people do cosplay</p>
+
+      <!-- Confidence: 0.9819019 -->
+      <p begin="00:00:23.258" end="00:00:26.215">and like they want to have costumes that look like</p>
+
+      <!-- Confidence: 0.9819019 -->
+      <p begin="00:00:26.274" end="00:00:27.280">their characters.</p>
+
+      <!-- Confidence: 0.9819019 -->
+      <p begin="00:00:27.280" end="00:00:29.180">You can't cosplay as text venture.</p>
+
+      <!-- Confidence: 0.9819019 -->
+      <p begin="00:00:29.180" end="00:00:31.050">I mean you probably could.</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:31.050" end="00:00:33.441">It'll be weird 'cause you just have like a lamp</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:33.492" end="00:00:35.832">and like a grew and it wasn't really look like</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:35.883" end="00:00:38.070">I don't know and like a piece of paper with</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:38.070" end="00:00:39.240">a map on it, right?</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:39.240" end="00:00:40.410">Like it's not. I mean,</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:40.410" end="00:00:41.110">I guess you</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:41.110" end="00:00:42.050">could. You could possibly,</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:42.050" end="00:00:43.690">but pretty obscure it. Be really sure.</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:43.690" end="00:00:45.906">I mean it, your little cook Dragon con 'cause he</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:45.952" end="00:00:47.430">would be like that's so obscure.</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:47.430" end="00:00:49.070">That's like the third character in like</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:49.070" end="00:00:51.397">yeah yeah. I mean like the people who would get</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:51.447" end="00:00:53.675">it would would get it right and they would be</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:53.725" end="00:00:54.220">so stoked.</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:54.220" end="00:00:55.620">That was just Oh yeah anyway.</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:55.620" end="00:00:56.320">So people like</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:56.320" end="00:00:58.578">to do do cosplay like a lot Cos play is</p>
+
+      <!-- Confidence: 0.97703767 -->
+      <p begin="00:00:58.636" end="00:01:01.300">like they have to do a lot of electronics now.</p>
+
+      <!-- Confidence: 0.9195726 -->
+      <p begin="00:01:01.300" end="00:01:04.661">Yeah, ever leads. The rings are glowing and like making</p>
+
+      <!-- Confidence: 0.9195726 -->
+      <p begin="00:01:04.722" end="00:01:05.150">noises.</p>
+
+      <!-- Confidence: 0.98603076 -->
+      <p begin="00:01:05.150" end="00:01:07.650">But they're not learning electronics and then doing cosplay.</p>
+
+      <!-- Confidence: 0.98603076 -->
+      <p begin="00:01:07.650" end="00:01:10.352">They're doing cosplay now like I really want to make</p>
+
+      <!-- Confidence: 0.98603076 -->
+      <p begin="00:01:10.404" end="00:01:13.210">this glowing sword that when I poke something with it,</p>
+
+      <!-- Confidence: 0.98603076 -->
+      <p begin="00:01:13.210" end="00:01:16.740">it makes the noise that the sword makes in the</p>
+
+      <!-- Confidence: 0.98603076 -->
+      <p begin="00:01:16.816" end="00:01:17.200">game.</p>
+
+      <!-- Confidence: 0.9853785 -->
+      <p begin="00:01:17.200" end="00:01:18.680">You know it's Speaking of</p>
+
+      <!-- Confidence: 0.9853785 -->
+      <p begin="00:01:18.680" end="00:01:21.720">like things that are glowing and gangs that are making</p>
+
+      <!-- Confidence: 0.9853785 -->
+      <p begin="00:01:21.776" end="00:01:23.690">noise like all that kind of stuff.</p>
+
+      <!-- Confidence: 0.9853785 -->
+      <p begin="00:01:23.690" end="00:01:26.515">So you've got this big warehouse in New York City</p>
+
+      <!-- Confidence: 0.9853785 -->
+      <p begin="00:01:26.573" end="00:01:29.744">where everybody works in your company and I'm trying to</p>
+
+      <!-- Confidence: 0.9853785 -->
+      <p begin="00:01:29.802" end="00:01:31.070">picture it in my head.</p>
+
+      <!-- Confidence: 0.9853785 -->
+      <p begin="00:01:31.070" end="00:01:32.540">Like all of these parts,</p>
+
+      <!-- Confidence: 0.9853785 -->
+      <p begin="00:01:32.540" end="00:01:34.020">all of these light bulbs,</p>
+
+      <!-- Confidence: 0.9853785 -->
+      <p begin="00:01:34.020" end="00:01:36.646">all of these things like coming to life in this</p>
+
+      <!-- Confidence: 0.9853785 -->
+      <p begin="00:01:36.701" end="00:01:37.260">warehouse.</p>
+
+      <!-- Confidence: 0.9853785 -->
+      <p begin="00:01:37.260" end="00:01:37.560">I've</p>
+
+      <!-- Confidence: 0.9853785 -->
+      <p begin="00:01:37.560" end="00:01:39.620">never seen a photo of it actually.</p>
+
+      <!-- Confidence: 0.9853785 -->
+      <p begin="00:01:39.620" end="00:01:42.280">Can you describe what it looks like to us?</p>
+
+      <!-- Confidence: 0.9853785 -->
+      <p begin="00:01:42.280" end="00:01:43.460">Yeah, so well, it</p>
+
+      <!-- Confidence: 0.9853785 -->
+      <p begin="00:01:43.460" end="00:01:46.180">looks like it looks like every photo you've ever seen</p>
+
+      <!-- Confidence: 0.9853785 -->
+      <p begin="00:01:46.232" end="00:01:47.720">in the attract manufacturing.</p>
+
+      <!-- Confidence: 0.9890688 -->
+      <p begin="00:01:47.720" end="00:01:50.180">Now there's there's. There's the the main like engine.</p>
+
+      <!-- Confidence: 0.989068799999999 -->
+      <p begin="00:01:50.180" end="00:01:52.612">Is this picking place line and the pick and place</p>
+
+      <!-- Confidence: 0.989068799999999 -->
+      <p begin="00:01:52.662" end="00:01:55.789">line is something that basically takes circuit boards which are</p>
+
+      <!-- Confidence: 0.989068799999999 -->
+      <p begin="00:01:55.839" end="00:01:58.370">these custom CAD design things look a lot like what</p>
+
+      <!-- Confidence: 0.9890688 -->
+      <p begin="00:01:58.370" end="00:02:00.550">my background is on soon with you guys.</p>
+
+      <!-- Confidence: 0.9890688 -->
+      <p begin="00:02:00.550" end="00:02:03.181">Can't see 'cause you're hearing my voice but it's got</p>
+
+      <!-- Confidence: 0.9890688 -->
+      <p begin="00:02:03.230" end="00:02:06.010">traces on it when people think like circuit board style,</p>
+
+      <!-- Confidence: 0.9890688 -->
+      <p begin="00:02:06.010" end="00:02:07.380">that's that's what it is.</p>
+
+      <!-- Confidence: 0.9890688 -->
+      <p begin="00:02:07.380" end="00:02:10.360">Except it's designed to actually connect traces and components together</p>
+
+      <!-- Confidence: 0.9890688 -->
+      <p begin="00:02:10.402" end="00:02:11.200">in the right order.</p>
+
+      <!-- Confidence: 0.989068799999999 -->
+      <p begin="00:02:11.200" end="00:02:13.687">And I design those and send those out and they</p>
+
+      <!-- Confidence: 0.989068799999999 -->
+      <p begin="00:02:13.741" end="00:02:16.552">get manufactured at a factory that does that and and</p>
+
+      <!-- Confidence: 0.989068799999999 -->
+      <p begin="00:02:16.606" end="00:02:18.120">there is a chemical process.</p>
+
+      <!-- Confidence: 0.98523456 -->
+      <p begin="00:02:18.120" end="00:02:21.039">We can't do it if you need to basically have</p>
+
+      <!-- Confidence: 0.98523456 -->
+      <p begin="00:02:21.106" end="00:02:22.300">a set up to do it,</p>
+
+      <!-- Confidence: 0.98523456 -->
+      <p begin="00:02:22.300" end="00:02:24.621">and he's doing a 24 hour so you can recycle</p>
+
+      <!-- Confidence: 0.98523456 -->
+      <p begin="00:02:24.674" end="00:02:25.430">the chemicals,</p>
+
+      <!-- Confidence: 0.98523456 -->
+      <p begin="00:02:25.430" end="00:02:27.842">which again would do. And they made the circuit board</p>
+
+      <!-- Confidence: 0.98523456 -->
+      <p begin="00:02:27.887" end="00:02:30.572">with these components of components come on like reals like</p>
+
+      <!-- Confidence: 0.98523456 -->
+      <p begin="00:02:30.617" end="00:02:32.210">they're just spun around on spools,</p>
+
+      <!-- Confidence: 0.98523456 -->
+      <p begin="00:02:32.210" end="00:02:35.019">basically of components, and then they pick and place you</p>
+
+      <!-- Confidence: 0.98523456 -->
+      <p begin="00:02:35.068" end="00:02:35.610">load it in,</p>
+
+      <!-- Confidence: 0.98523456 -->
+      <p begin="00:02:35.610" end="00:02:37.480">and then it has these little pickup.</p>
+    </div>
+  </body>
+</tt>

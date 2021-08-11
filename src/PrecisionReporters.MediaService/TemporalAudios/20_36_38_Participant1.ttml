@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-US" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:copyright>Copyright (c) 2013 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="Style1" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region style="Style1" xml:id="CaptionArea" tts:origin="0c 12.6c" tts:extent="32c 2.4c" tts:backgroundColor="rgba(0,0,0,160)" tts:displayAlign="center" tts:padding="0.3c 0.5c" />
+    </layout>
+  </head>
+  <body region="CaptionArea">
+    <div>
+      <!-- Confidence: 0.9592543 -->
+      <p begin="00:00:03.920" end="00:00:07.020">It's harder to do. There's more energy needed,</p>
+
+      <!-- Confidence: 0.9592543 -->
+      <p begin="00:00:07.020" end="00:00:09.350">more focus needed on this task,</p>
+
+      <!-- Confidence: 0.9592543 -->
+      <p begin="00:00:09.350" end="00:00:11.290">and I know from experience.</p>
+
+      <!-- Confidence: 0.9592543 -->
+      <p begin="00:00:11.290" end="00:00:12.840">And I also know</p>
+
+      <!-- Confidence: 0.9592543 -->
+      <p begin="00:00:12.840" end="00:00:16.855">from comments on my YouTube channel that it's it's often</p>
+
+      <!-- Confidence: 0.9592543 -->
+      <p begin="00:00:16.926" end="00:00:17.500">the case</p>
+
+      <!-- Confidence: 0.9592543 -->
+      <p begin="00:00:17.500" end="00:00:21.000">when you start something that is a little bit more</p>
+
+      <!-- Confidence: 0.9592543 -->
+      <p begin="00:00:21.070" end="00:00:21.770">difficult,</p>
+
+      <!-- Confidence: 0.9592543 -->
+      <p begin="00:00:21.770" end="00:00:23.710">and then you think, ah,</p>
+
+      <!-- Confidence: 0.9592543 -->
+      <p begin="00:00:23.710" end="00:00:24.100">this</p>
+
+      <!-- Confidence: 0.9592543 -->
+      <p begin="00:00:24.100" end="00:00:26.810">is too hard. I can't do it.</p>
+
+      <!-- Confidence: 0.9592543 -->
+      <p begin="00:00:26.810" end="00:00:27.200">Let's</p>
+
+      <!-- Confidence: 0.9592543 -->
+      <p begin="00:00:27.200" end="00:00:29.920">just listen to a podcast episode instead.</p>
+
+      <!-- Confidence: 0.9592543 -->
+      <p begin="00:00:29.920" end="00:00:33.536">Or let's just go on YouTube and see what videos</p>
+
+      <!-- Confidence: 0.9592543 -->
+      <p begin="00:00:33.613" end="00:00:34.690">are available.</p>
+
+      <!-- Confidence: 0.9715858 -->
+      <p begin="00:00:34.690" end="00:00:36.820">Right now and I do this too,</p>
+
+      <!-- Confidence: 0.9715858 -->
+      <p begin="00:00:36.820" end="00:00:39.775">so if I'm trying to focus on something with my</p>
+
+      <!-- Confidence: 0.9715858 -->
+      <p begin="00:00:39.839" end="00:00:40.160">work,</p>
+
+      <!-- Confidence: 0.9715858 -->
+      <p begin="00:00:40.160" end="00:00:41.680">it's a little bit difficult.</p>
+
+      <!-- Confidence: 0.9715858 -->
+      <p begin="00:00:41.680" end="00:00:44.635">I'll switch the tab and just check my emails or</p>
+
+      <!-- Confidence: 0.9715858 -->
+      <p begin="00:00:44.698" end="00:00:47.150">I'll check out the YouTube tab and see,</p>
+
+      <!-- Confidence: 0.9715858 -->
+      <p begin="00:00:47.150" end="00:00:48.670">oh, it's something new there,</p>
+
+      <!-- Confidence: 0.9715858 -->
+      <p begin="00:00:48.670" end="00:00:51.374">what what can ever look at where I pick up</p>
+
+      <!-- Confidence: 0.9715858 -->
+      <p begin="00:00:51.438" end="00:00:54.078">my phone and check my emails so this is a</p>
+
+      <!-- Confidence: 0.9715858 -->
+      <p begin="00:00:54.142" end="00:00:57.490">big problem and I think it's actually getting worse.</p>
+
+      <!-- Confidence: 0.9715858 -->
+      <p begin="00:00:57.490" end="00:01:00.495">I'll leave a link to my video where I talk</p>
+
+      <!-- Confidence: 0.9715858 -->
+      <p begin="00:01:00.567" end="00:01:03.930">about social media and how addictive it can be.</p>
+
+      <!-- Confidence: 0.97678286 -->
+      <p begin="00:01:03.930" end="00:01:07.090">And how it just takes away our focus.</p>
+
+      <!-- Confidence: 0.97678286 -->
+      <p begin="00:01:07.090" end="00:01:09.070">A lot of the time,</p>
+
+      <!-- Confidence: 0.97678286 -->
+      <p begin="00:01:09.070" end="00:01:12.742">but the concept I really want to talk about today</p>
+
+      <!-- Confidence: 0.97678286 -->
+      <p begin="00:01:12.817" end="00:01:14.990">is to embrace the difficulty.</p>
+
+      <!-- Confidence: 0.97678286 -->
+      <p begin="00:01:14.990" end="00:01:17.760">So this means to really get excited,</p>
+
+      <!-- Confidence: 0.97678286 -->
+      <p begin="00:01:17.760" end="00:01:21.517">OK, excited about when something is a little bit too</p>
+
+      <!-- Confidence: 0.97678286 -->
+      <p begin="00:01:21.589" end="00:01:22.890">difficult for you,</p>
+
+      <!-- Confidence: 0.97678286 -->
+      <p begin="00:01:22.890" end="00:01:26.050">or when something seems quite hard to do.</p>
+
+      <!-- Confidence: 0.97678286 -->
+      <p begin="00:01:26.050" end="00:01:29.210">And the main reason for that is this.</p>
+
+      <!-- Confidence: 0.97678286 -->
+      <p begin="00:01:29.210" end="00:01:31.860">This is where you grow.</p>
+    </div>
+  </body>
+</tt>

@@ -14,7 +14,7 @@
 
         public static string SaveTranscriptions()
         {
-            return $"INSERT INTO Transcriptions (Id, CreationDate, Text, UserId, DepositionId, TranscriptDateTime, Confidence, Duration) VALUES (@Id, @CreationDate, @Text, @UserId, @DepositionId, @TranscriptDateTime, @Confidence, @Duration)";
+            return $"INSERT INTO Transcriptions (Id, CreationDate, Text, UserId, DepositionId, TranscriptDateTime, Confidence, Duration, PostProcessed) VALUES (@Id, @CreationDate, @Text, @UserId, @DepositionId, @TranscriptDateTime, @Confidence, @Duration, @PostProcessed)";
         }
     }
 }

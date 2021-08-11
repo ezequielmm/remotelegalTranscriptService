@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-US" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:copyright>Copyright (c) 2013 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="Style1" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region style="Style1" xml:id="CaptionArea" tts:origin="0c 12.6c" tts:extent="32c 2.4c" tts:backgroundColor="rgba(0,0,0,160)" tts:displayAlign="center" tts:padding="0.3c 0.5c" />
+    </layout>
+  </head>
+  <body region="CaptionArea">
+    <div>
+      <!-- Confidence: 0.9533563 -->
+      <p begin="00:00:00.000" end="00:00:02.110">Like waiting when you run GC.</p>
+
+      <!-- Confidence: 0.9533563 -->
+      <p begin="00:00:02.110" end="00:00:05.530">If you're a woman, you have to add extra dishes.</p>
+
+      <!-- Confidence: 0.9533563 -->
+      <p begin="00:00:05.530" end="00:00:07.240">The flags no, not really.</p>
+
+      <!-- Confidence: 0.38071054 -->
+      <p begin="00:00:10.650" end="00:00:14.300">Yeah, code.</p>
+
+      <!-- Confidence: 0.9659968 -->
+      <p begin="00:00:14.300" end="00:00:16.220">I have folders like, uhm,</p>
+
+      <!-- Confidence: 0.9659968 -->
+      <p begin="00:00:16.220" end="00:00:20.050">it, yeah yeah, like it doesn't actually make any difference.</p>
+
+      <!-- Confidence: 0.9659968 -->
+      <p begin="00:00:20.050" end="00:00:23.110">It sucks to write code and debug things,</p>
+
+      <!-- Confidence: 0.9659968 -->
+      <p begin="00:00:23.110" end="00:00:25.020">even if you're a lady.</p>
+
+      <!-- Confidence: 0.9659968 -->
+      <p begin="00:00:25.020" end="00:00:27.320">But here's something kind of neat.</p>
+
+      <!-- Confidence: 0.9659968 -->
+      <p begin="00:00:27.320" end="00:00:30.980">If you're a woman, or if you're like underrepresented in</p>
+
+      <!-- Confidence: 0.9659968 -->
+      <p begin="00:00:31.046" end="00:00:32.680">your hobby or profession,</p>
+
+      <!-- Confidence: 0.9659968 -->
+      <p begin="00:00:32.680" end="00:00:35.370">you're going to be underestimated a lot,</p>
+
+      <!-- Confidence: 0.9659968 -->
+      <p begin="00:00:35.370" end="00:00:37.280">which is very powerful, right?</p>
+
+      <!-- Confidence: 0.9659968 -->
+      <p begin="00:00:37.280" end="00:00:39.580">'cause they've never see you coming,</p>
+
+      <!-- Confidence: 0.9659968 -->
+      <p begin="00:00:39.580" end="00:00:43.168">so I've tried to use that as like my special</p>
+
+      <!-- Confidence: 0.9659968 -->
+      <p begin="00:00:43.250" end="00:00:44.310">power 'cause.</p>
+
+      <!-- Confidence: 0.97449815 -->
+      <p begin="00:00:44.310" end="00:00:47.102">People like, oh, there's no way like she's gonna do</p>
+
+      <!-- Confidence: 0.97449815 -->
+      <p begin="00:00:47.156" end="00:00:50.167">this like there's no way she'll she'll design this it's</p>
+
+      <!-- Confidence: 0.97449815 -->
+      <p begin="00:00:50.222" end="00:00:52.740">just no way they'll put me out of business and</p>
+
+      <!-- Confidence: 0.97449815 -->
+      <p begin="00:00:52.740" end="00:00:53.300">I put</p>
+
+      <!-- Confidence: 0.97449815 -->
+      <p begin="00:00:53.300" end="00:00:55.270">them out of business and then you.</p>
+
+      <!-- Confidence: 0.97449815 -->
+      <p begin="00:00:55.270" end="00:00:56.390">And then you're the</p>
+
+      <!-- Confidence: 0.97449815 -->
+      <p begin="00:00:56.390" end="00:00:57.520">first woman on the</p>
+
+      <!-- Confidence: 0.97449815 -->
+      <p begin="00:00:57.520" end="00:00:59.770">cover of Wired magazine. Just take him out.</p>
+
+      <!-- Confidence: 0.97449815 -->
+      <p begin="00:00:59.770" end="00:01:00.890">Yeah yeah that's awesome.</p>
+
+      <!-- Confidence: 0.97449815 -->
+      <p begin="00:01:00.890" end="00:01:02.290">I love that perspective yeah,</p>
+
+      <!-- Confidence: 0.97449815 -->
+      <p begin="00:01:02.290" end="00:01:05.145">so that that's that's my I'm I'm using this as</p>
+
+      <!-- Confidence: 0.97449815 -->
+      <p begin="00:01:05.207" end="00:01:06.510">as as as a technique.</p>
+
+      <!-- Confidence: 0.97449815 -->
+      <p begin="00:01:06.510" end="00:01:08.760">It's like you you look so harmless that</p>
+
+      <!-- Confidence: 0.97449815 -->
+      <p begin="00:01:08.760" end="00:01:11.570">it's a testament to to open source too as well.</p>
+
+      <!-- Confidence: 0.97449815 -->
+      <p begin="00:01:11.570" end="00:01:14.120">And how are you able to?</p>
+
+      <!-- Confidence: 0.98710346 -->
+      <p begin="00:01:14.120" end="00:01:17.210">One put together kits for things you were interested in</p>
+
+      <!-- Confidence: 0.98710346 -->
+      <p begin="00:01:17.266" end="00:01:17.940">at the time,</p>
+
+      <!-- Confidence: 0.98710346 -->
+      <p begin="00:01:17.940" end="00:01:20.000">and maybe other folks are interested in.</p>
+
+      <!-- Confidence: 0.98710346 -->
+      <p begin="00:01:20.000" end="00:01:23.090">Yeah, but also being able to grow community around this</p>
+
+      <!-- Confidence: 0.98710346 -->
+      <p begin="00:01:23.146" end="00:01:23.820">too as well.</p>
+
+      <!-- Confidence: 0.988158002222222 -->
+      <p begin="00:01:23.820" end="00:01:27.658">So have you seen? Like Adafruit wasn't the first project</p>
+
+      <!-- Confidence: 0.988158002222222 -->
+      <p begin="00:01:27.726" end="00:01:31.290">company to put together kits for hardware computers,</p>
+
+      <!-- Confidence: 0.9884593 -->
+      <p begin="00:01:31.290" end="00:01:34.657">but are you seeing a trend and folks really adopting</p>
+
+      <!-- Confidence: 0.9884593 -->
+      <p begin="00:01:34.722" end="00:01:36.470">hardware computing through?</p>
+
+      <!-- Confidence: 0.9884593 -->
+      <p begin="00:01:36.470" end="00:01:38.070">I guess interacting with</p>
+
+      <!-- Confidence: 0.9884593 -->
+      <p begin="00:01:38.070" end="00:01:40.460">Adafruit. Well I I think so.</p>
+
+      <!-- Confidence: 0.9884593 -->
+      <p begin="00:01:40.460" end="00:01:44.081">My my thing is, I personally find engineering and making</p>
+
+      <!-- Confidence: 0.9884593 -->
+      <p begin="00:01:44.146" end="00:01:47.250">electronics and all this stuff very interesting.</p>
+
+      <!-- Confidence: 0.9884593 -->
+      <p begin="00:01:47.250" end="00:01:50.040">I don't know what's wrong with me.</p>
+
+      <!-- Confidence: 0.9884593 -->
+      <p begin="00:01:50.040" end="00:01:52.030">I buy personally like it,</p>
+
+      <!-- Confidence: 0.9884593 -->
+      <p begin="00:01:52.030" end="00:01:55.720">I enjoy it. I think that trying to convince.</p>
+
+      <!-- Confidence: 0.9885065 -->
+      <p begin="00:01:55.720" end="00:01:59.380">People that electronics and computing is interesting on its own</p>
+
+      <!-- Confidence: 0.9885065 -->
+      <p begin="00:01:59.438" end="00:02:00.890">terms is not a good idea.</p>
+
+      <!-- Confidence: 0.9885065 -->
+      <p begin="00:02:00.890" end="00:02:03.825">Like I, I really don't like how every book that's</p>
+
+      <!-- Confidence: 0.9885065 -->
+      <p begin="00:02:03.885" end="00:02:06.700">about like like I'm going to learn electronics.</p>
+
+      <!-- Confidence: 0.9885065 -->
+      <p begin="00:02:06.700" end="00:02:09.824">I'm reading a book I like painful and it's like</p>
+
+      <!-- Confidence: 0.9885065 -->
+      <p begin="00:02:09.891" end="00:02:11.220">this is an electron.</p>
+
+      <!-- Confidence: 0.9885065 -->
+      <p begin="00:02:11.220" end="00:02:12.190">I don't like</p>
+
+      <!-- Confidence: 0.9885065 -->
+      <p begin="00:02:12.190" end="00:02:12.520">white.</p>
+    </div>
+  </body>
+</tt>
